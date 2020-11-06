@@ -2,7 +2,7 @@
 A Java netbeans software to manage all the sale and purchase of Medicines
 
 # How to install the Software
-The repository doesn't contain the code for the software. If you want that you can email me at talhakhawar9292@gmail.com.
+**The repository doesn't contain the code for the software. If you want that you can email me at talhakhawar9292@gmail.com.**
 The repository contain a build version of java software. To run this software on your system you have to install java JDK and clone the whole repository to start working with it.
 Here is the link from where you can download jdk. 
 https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
@@ -43,13 +43,13 @@ The next file is the Plus.sqlite file. This is the database of the software and 
 ***The reports are generated in a pdf format which can be saved in the local disk for later use.***
 
 # The login page 
-!(https://github.com/TalhaSheikh-dev/Medical-Store-Management-System/blob/main/images/login.PNG)
+![](https://github.com/TalhaSheikh-dev/Medical-Store-Management-System/blob/main/images/login.PNG)
 
 # The main menu
-!(https://github.com/TalhaSheikh-dev/Medical-Store-Management-System/blob/main/images/main_menu.PNG)
+![](https://github.com/TalhaSheikh-dev/Medical-Store-Management-System/blob/main/images/main_menu.PNG)
 
 # The Bill Page
-!(https://github.com/TalhaSheikh-dev/Medical-Store-Management-System/blob/main/images/bill.PNG)
+![](https://github.com/TalhaSheikh-dev/Medical-Store-Management-System/blob/main/images/bill.PNG)
 
 # The Report
-!(https://github.com/TalhaSheikh-dev/Medical-Store-Management-System/blob/main/images/report.PNG)
+![](https://github.com/TalhaSheikh-dev/Medical-Store-Management-System/blob/main/images/report.PNG)
