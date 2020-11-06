@@ -22,20 +22,20 @@ The next file is the Plus.sqlite file. This is the database of the software and 
 -Check Stock
   
   
-##Purchase Module
--Add purchase
--Delete Purchase
--Show All Purchase
--Search Purchase
+## Purchase Module
+- Add purchase
+- Delete Purchase
+- Show All Purchase
+- Search Purchase
   
-##Sales Module
--Bill
--Search Bill
--Bill Return
+## Sales Module
+- Bill
+- Search Bill
+- Bill Return
   
-##Profit/loss
--OverAll sales Report
--OverAll Purchase Report
--Product wise Purchase Report
--Product wise Sales Report
--Profit Loss report
+## Profit/loss
+- OverAll sales Report
+- OverAll Purchase Report
+- Product wise Purchase Report
+- Product wise Sales Report
+- Profit Loss report
