@@ -12,9 +12,9 @@ There are 1 folder and 2 files in the repository. The Lib folder contains the de
 The next file is the InventoryPlus.jar. This file is the main file and is used to run the software. By clicking it you will enter the software and start using it.
 The next file is the Plus.sqlite file. This is the database of the software and all the data is stored in this file. Through this file we can restore and backup data if we want to.
 
+![The Login Page](https://github.com/TalhaSheikh-dev/Medical-Store-Management-System/blob/main/images/bill.PNG)
 
-
-# THe modules inside the software
+# The modules inside the software
 ## Product Module
 - Add product
 - Delete Product
