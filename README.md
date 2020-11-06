@@ -13,13 +13,14 @@ The next file is the InventoryPlus.jar. This file is the main file and is used t
 The next file is the Plus.sqlite file. This is the database of the software and all the data is stored in this file. Through this file we can restore and backup data if we want to.
 
 
+
 # THe modules inside the software
-##Product Module
--Add product
--Delete Product
--Search Product
--View all Product
--Check Stock
+## Product Module
+- Add product
+- Delete Product
+- Search Product
+- View all Product
+- Check Stock
   
   
 ## Purchase Module
@@ -39,3 +40,5 @@ The next file is the Plus.sqlite file. This is the database of the software and 
 - Product wise Purchase Report
 - Product wise Sales Report
 - Profit Loss report
+
+The reports are generated in a pdf format which can be saved in the local disk for later use.
